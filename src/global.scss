@@ -1,0 +1,25 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  font-family: 'Fira Code', monospace;
+}
+
+hr {
+  margin-top: 0;
+}
+
+.my-list-group {
+  .list-group-item {
+    border: none;
+  }
+}
+
+.text-indent {
+  text-indent: 1rem;
+}
+
+@media (min-width: 767px) {
+  .text-indent {
+    text-indent: 3rem;
+  }
+}
