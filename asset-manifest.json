@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kiqaps-cv/static/css/main.ae589795.chunk.css",
+    "main.js": "/kiqaps-cv/static/js/main.062579ea.chunk.js",
+    "main.js.map": "/kiqaps-cv/static/js/main.062579ea.chunk.js.map",
+    "runtime-main.js": "/kiqaps-cv/static/js/runtime-main.a634b4e3.js",
+    "runtime-main.js.map": "/kiqaps-cv/static/js/runtime-main.a634b4e3.js.map",
+    "static/js/2.ed10cb1c.chunk.js": "/kiqaps-cv/static/js/2.ed10cb1c.chunk.js",
+    "static/js/2.ed10cb1c.chunk.js.map": "/kiqaps-cv/static/js/2.ed10cb1c.chunk.js.map",
+    "index.html": "/kiqaps-cv/index.html",
+    "precache-manifest.30609db50896c7c3b331d42865ad3d12.js": "/kiqaps-cv/precache-manifest.30609db50896c7c3b331d42865ad3d12.js",
+    "service-worker.js": "/kiqaps-cv/service-worker.js",
+    "static/css/main.ae589795.chunk.css.map": "/kiqaps-cv/static/css/main.ae589795.chunk.css.map",
+    "static/js/2.ed10cb1c.chunk.js.LICENSE.txt": "/kiqaps-cv/static/js/2.ed10cb1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a634b4e3.js",
+    "static/js/2.ed10cb1c.chunk.js",
+    "static/css/main.ae589795.chunk.css",
+    "static/js/main.062579ea.chunk.js"
+  ]
+}
