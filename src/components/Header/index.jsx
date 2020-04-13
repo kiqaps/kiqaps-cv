@@ -26,10 +26,10 @@ export const Header = ({ lang }) => {
         </div>
         <div className="col-12 col-md-4 d-flex align-items-center justify-content-center justify-content-md-end">
           <a className="mr-5 mr-md-3" href="https://github.com/kiqaps">
-            <Linkedin />
+            <GitHub />
           </a>
           <a href="https://www.linkedin.com/in/ca%C3%ADque-ara%C3%BAjo-sp%C3%B3sito-16066a145/">
-            <GitHub />
+            <Linkedin />
           </a>
         </div>
       </div>
